@@ -1,4 +1,4 @@
 # Employee App
-Belajar Java Dasar untuk Android studio / Spring Boot soon
+Learned java fundamentals
 
 Employee app made with Java Object Oriented Programming
